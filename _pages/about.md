@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.Phil. Advanced Computer Science <a href='https://www.cst.cam.ac.uk'>@University of Cambridge</a>. 
+subtitle: MPhil Advanced Computer Science <a href='https://www.cst.cam.ac.uk'>@University of Cambridge</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>

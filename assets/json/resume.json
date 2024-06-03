@@ -7,13 +7,7 @@
       "city": "Cambridge",
       "countryCode": "UK"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "education": [
     {
@@ -24,11 +18,13 @@
       "startDate": "2023-10",
       "endDate": "2024-09",
       "score": "",
-      "courses": ["Large-Scale Data Processing and Optimization",
-                  "Principles of Machine Learning Systems",
-                  "Introduction to Networking and Systems Measurements",
-                  "Advanced Operating Systems",
-                  "Understanding Networked-Systems Performance"]
+      "courses": [
+        "Large-Scale Data Processing and Optimization",
+        "Principles of Machine Learning Systems",
+        "Introduction to Networking and Systems Measurements",
+        "Advanced Operating Systems",
+        "Understanding Networked-Systems Performance"
+      ]
     },
     {
       "institution": "University of Munich",
@@ -47,7 +43,7 @@
       "position": "Software Engineering Intern",
       "startDate": "2024-07",
       "endDate": "2024-10",
-      "summary": "Working in the CoreOS team",
+      "summary": "Joining the CoreOS team",
       "highlights": []
     },
     {
@@ -56,7 +52,10 @@
       "startDate": "2023-05",
       "endDate": "2023-08",
       "summary": "Developed a Visual Studio Code Extension",
-      "highlights": ["Deployed for internal usage upon completion of the internship", "Extension tightly integrates Infineon's microcontroller build system into VS Code"]
+      "highlights": [
+        "Deployed for internal usage upon completion of the internship",
+        "Extension tightly integrates Infineon's microcontroller build system into VS Code"
+      ]
     },
     {
       "name": "Cognizant Mobility",
@@ -64,7 +63,11 @@
       "startDate": "2022-04",
       "endDate": "2022-09",
       "summary": "Development of test software for an embedded automotive system",
-      "highlights": ["Transmits signals onto a CAN Bus", "Concurrently validates system behavior and collects performance metrics", "Controllable via CLI or Electron frontend"]
+      "highlights": [
+        "Transmits signals onto a CAN Bus",
+        "Concurrently validates system behavior and collects performance metrics",
+        "Controllable via CLI or Electron frontend"
+      ]
     },
     {
       "name": "Cognizant Mobility",
@@ -75,42 +78,14 @@
       "highlights": []
     }
   ],
-  "volunteer": [
-    {
-      "organization": "German Forum for Ethical Machine Decision Making",
-      "location": "Munich, Germany",
-      "position": "",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  
+  "volunteer": [],
   "publications": [],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Computer Science",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["Python", "C/C++", "Bayesian Optimization", "Apache TVM"]
     }
   ],
   "languages": [
@@ -125,40 +100,16 @@
       "icon": ""
     }
   ],
-  "interests": [
+  "interests": [],
+  "awards": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "title": "DPG-Abiturpreis",
+      "date": "2019-06",
+      "awarder": "German Physical Society",
+      "url": "https://www.dpg-physik.de/auszeichnungen/dpg-preise/abiturpreis?set_language=en",
+      "summary": "Award for an outstanding performance in the subject physics by the German Physical Society"
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "references": [],
+  "projects": []
 }
